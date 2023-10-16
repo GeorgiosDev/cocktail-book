@@ -1,6 +1,6 @@
 # The Cocktail Book
 
-![Screenshot](Στιγμιότυπο οθόνης 2023-10-16 113821.png)
+![Screenshot](/src/assets/images/screenshot1.png)
 
 
 
