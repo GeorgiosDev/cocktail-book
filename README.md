@@ -1,6 +1,8 @@
 # The Cocktail Book
 
 ![Screenshot](/src/assets/images/screenshot1.png)
+![Screenshot2](/src/assets/images/screenshot2.png)
+
 
 
 
